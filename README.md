@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi, I’m Filipe
 
-<!--
-**FilipeBeserraMaia/filipebeserramaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :gem: I'm  Back End Ruby on Rails developer
+- 🔭 I'm always eager to learn
+- 🌱 I’m currently learning ReactJS, Spring and Spring Boot
+- 💬 Ask me about anything, I am happy to help
 
-Here are some ideas to get you started:
+## Languages and Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Ruby, Python, JS,Java, C
+* Rails, Yii2
+* HTML, CSS, Bootstrap
+* PostgreSQL, MySQL, Oracle
+ 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipebeserramaia&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
